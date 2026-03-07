@@ -1,0 +1,6 @@
+# Build artifacts
+dirwalk
+*.o
+
+# macOS
+.DS_Store
