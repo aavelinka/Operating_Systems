@@ -1,0 +1,20 @@
+# Build artifacts
+dispatcher
+*.o
+*.obj
+*.out
+
+# Runtime artifacts
+work/
+
+# IDE and indexer files
+.idea/
+.vscode/
+.cache/
+.ccls-cache/
+compile_commands.json
+
+# OS / editor temp files
+.DS_Store
+*.swp
+*~
