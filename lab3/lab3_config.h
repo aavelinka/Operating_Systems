@@ -1,0 +1,11 @@
+#ifndef LAB3_CONFIG_H
+#define LAB3_CONFIG_H
+
+enum {
+    TIMER_USEC = 3000,
+    WRITE_GAP_NSEC = 50000,
+    INITIAL_CAPACITY = 8,
+    REPORT_EVERY = 101
+};
+
+#endif
